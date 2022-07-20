@@ -6,5 +6,7 @@ This example is to show
 
 ## Purpose
 
+This is also to show thingh to the world.
+
 ## How to contribute
 
